@@ -1,0 +1,37 @@
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  app:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      VPN_PASSPHRASE: ${{ secrets.VPN_PASSPHRASE }}
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - run: ./container.sh true
+      - run: ./container.sh ./update.sh "$VPN_PASSPHRASE"
+      - run: git diff --exit-code ./page.txt
+      - run: git diff --exit-code ./page.png
+
+  keepalive-job:
+    name: Keepalive Workflow
+    if: ${{ always() }}
+    needs: app
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      # https://github.com/marketplace/actions/workflow-keepalive
+      - uses: liskin/gh-workflow-keepalive@v1
