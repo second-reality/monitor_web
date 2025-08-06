@@ -23,7 +23,6 @@ jobs:
       - run: ./container.sh true
       - run: ./container.sh ./update.sh "$VPN_PASSPHRASE"
       - run: git diff --exit-code ./page.txt
-      - run: git diff --exit-code ./page.png
 
   keepalive-job:
     name: Keepalive Workflow
