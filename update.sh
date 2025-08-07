@@ -27,6 +27,7 @@ echo
 #su user -c \
 #'xvfb-run cutycapt --url=https://gointernational.ca/programs/canada-working-holiday-program-sponsored/ --user-agent="Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36" --out=/tmp/page.png --delay=10000'
 #mv /tmp/page.png page.png
-elinks https://gointernational.ca/programs/canada-working-holiday-program-sponsored/ -dump > page.txt
+elinks https://gointernational.ca/programs/canada-working-holiday-program-sponsored/ -dump |
+    grep -B 100000 'Related Products' > page.txt
 
 pkill openvpn
