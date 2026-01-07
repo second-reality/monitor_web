@@ -30,4 +30,7 @@ echo
 elinks https://gointernational.ca/programs/canada-working-holiday-program-sponsored/ -dump |
     grep -B 100000 'Related Products' > page.txt
 
+elinks https://gointernational.ca/programs/canada-working-holiday-program-sponsored/ -dump |
+    grep -B 100000 'Related Products' > page2.txt
+
 pkill openvpn
