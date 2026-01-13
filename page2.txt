@@ -83,6 +83,8 @@
      o Submitting an application is NOT a guarantee for an RO spot
      o Only ONE application per IEC season is permitted
      o Program fee is in Canadian Dollars (CAD)
+     o Gmail sign in is required to allow file uploading and preventing
+       duplicate submissions
 
 
 
@@ -106,6 +108,10 @@
 
    We will provide the application form and spaces to upload your documents
    on the waitlist when it opens.
+
+   Please note that the waitlist will be on Google Forms, and it will require
+   a Gmail sign in to allow uploading files and preventing duplicate
+   submissions.
 
 Dive into adventure!
 
