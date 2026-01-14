@@ -65,8 +65,9 @@
 
   IEC 2026 Waitlist Update
 
-   Our IEC 2026 waitlist will open on Wednesday, January 14, 11am PST and
-   close on Thursday, January 15, 11am PST.
+   Our IEC 2026 waitlist will open on Wednesday, January 14, 11am Pacific
+   Standard Time (Vancouver Time) and close on Thursday, January 15, 11am
+   Pacific Standard Time (Vancouver Time).
 
    The waitlist will be open for 24 hours only.
 
@@ -89,10 +90,12 @@
 
    Where is the waitlist?
    The link to the waitlist will be available here on this webpage and open
-   on Wednesday, January 14, 11am PST and close on Thursday, January 15, 11am
-   PST.
+   on Wednesday, January 14, 11am Pacific Standard Time (Vancouver Time) and
+   close on Thursday, January 15, 11am Pacific Standard Time (Vancouver
+   Time).
 
-   IT WILL NOT BE AVAILABLE BEFORE JAN 14 11AM PST.
+   IT WILL NOT BE AVAILABLE BEFORE JAN 14 11AM Pacific Standard Time
+   (Vancouver Time).
 
 
 
