@@ -1,13 +1,13 @@
-   Link: [1]dns-prefetch
+   Link: [1]canonical
    Link: [2]dns-prefetch
-   Link: [3]Go International >> Feed (alternate)
-   Link: [4]Go International >> Comments Feed (alternate)
-   Link: [5]oEmbed (JSON) (alternate)
-   Link: [6]oEmbed (XML) (alternate)
-   Link: [7]https://api.w.org/
-   Link: [8]JSON (alternate)
-   Link: [9]RSD (EditURI)
-   Link: [10]canonical
+   Link: [3]dns-prefetch
+   Link: [4]Go International >> Feed (alternate)
+   Link: [5]Go International >> Comments Feed (alternate)
+   Link: [6]oEmbed (JSON) (alternate)
+   Link: [7]oEmbed (XML) (alternate)
+   Link: [8]https://api.w.org/
+   Link: [9]JSON (alternate)
+   Link: [10]RSD (EditURI)
    Link: [11]shortlink
    +1 (236) 865-5324
    9:00 AM - 5:00 PM PT
