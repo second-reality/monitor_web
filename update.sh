@@ -33,6 +33,6 @@ echo
 #elinks https://gointernational.ca/programs/canada-working-holiday-program-ro-sponsored/ -dump |
 #    grep -B 100000 'References' > page2.txt
 
-elinks https://tzuchi.ca/tcml-vancouver -dump > page.txt
+elinks https://tzuchi.ca/tcml-vancouver -eval 'set protocol.http.user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"' -dump > page.txt
 
 pkill openvpn
