@@ -1,236 +1,729 @@
-   Link: [1]canonical
-   Link: [2]dns-prefetch
+   Link: [1]profile
+   Link: [2]canonical
    Link: [3]dns-prefetch
-   Link: [4]Go International >> Feed (alternate)
-   Link: [5]Go International >> Comments Feed (alternate)
-   Link: [6]oEmbed (JSON) (alternate)
-   Link: [7]oEmbed (XML) (alternate)
-   Link: [8]https://api.w.org/
-   Link: [9]JSON (alternate)
-   Link: [10]RSD (EditURI)
-   Link: [11]shortlink
-   +1 (236) 865-5324
-   9:00 AM - 5:00 PM PT
-   Search for: [12]_____________________  [13][ Search ]
-   [14]Go International[15]Go International
-     o [16]About Us
-          o [17]Our Story
-          o [18]International Experience Canada
-          o [19]FAQ
-          o [20]Blog
-          o [21]GO International Giveaway
-     o [22]WORK & TRAVEL
-          o [23]Australia
-          o [24]Canada
-          o [25]Costa Rica
-          o [26]France
-          o [27]Germany
-          o [28]Greece
-          o [29]Ireland
-          o [30]Japan
-          o [31]Netherlands
-          o [32]New Zealand
-          o [33]South Korea
-          o [34]United Kingdom
-     o [35]INTERNSHIP
-          o [36]Germany
-          o [37]Japan
-     o [38]VOLUNTEER
-          o [39]Banff National Park
-          o [40]Lake Louise
-          o [41]Zajac Ranch
-     o [42]WEBINARS
-     o [43]Contact Us ->
-     o [44]Special Offers!
-     o [45]Home
-     o [46]Tour Category
-     o [47]Work & Travel
-     o Canada Working Holiday Program (RO Sponsored)
+   Link: [4]Tzu Chi Canada >> Feed (alternate)
+   Link: [5]Tzu Chi Canada >> Comments Feed (alternate)
+   Link: [6]Tzu Chi Canada >> iCal Feed (alternate)
+   Link: [7]oEmbed (JSON) (alternate)
+   Link: [8]oEmbed (XML) (alternate)
+   Link: [9]https://api.w.org/
+   Link: [10]JSON (alternate)
+   Link: [11]RSD (EditURI)
+   Link: [12]shortlink
+   Link: [13]alternate
+   Link: [14]stylesheet/lzl-nc (all)
+   Link: [15]stylesheet/lzl-nc (all)
+   Link: [16]stylesheet/lzl-nc (all)
+   Link: [17]stylesheet/lzl-nc (all)
+   Link: [18]stylesheet/lzl-nc (all)
+   Link: [19]stylesheet/lzl-nc (all)
+   Link: [20]stylesheet/lzl-nc (all)
+   Link: [21]stylesheet/lzl-nc (all)
+   Link: [22]stylesheet/lzl-nc (all)
+   Link: [23]stylesheet/lzl-nc (all)
+   Link: [24]stylesheet/lzl-nc (all)
+   Link: [25]stylesheet/lzl-nc (all)
+   Link: [26]stylesheet/lzl-nc (all)
+   Link: [27]stylesheet/lzl-nc (all)
+   Link: [28]stylesheet/lzl-nc (all)
+   Link: [29]stylesheet/lzl-nc (all)
+   Link: [30]stylesheet/lzl-nc (all)
+   Link: [31]stylesheet/lzl-nc (all)
+   Link: [32]stylesheet/lzl-nc (all)
+   Link: [33]stylesheet/lzl-nc (all)
+   Link: [34]stylesheet/lzl-nc (all)
+   Link: [35]stylesheet/lzl-nc (all)
+   Link: [36]stylesheet/lzl-nc (all)
+   Link: [37]stylesheet/lzl-nc (all)
+   Link: [38]stylesheet/lzl-nc (all)
+   Link: [39]stylesheet/lzl-nc (all)
+   Link: [40]stylesheet/lzl-nc (all)
+   Link: [41]stylesheet/lzl-nc (all)
+   Link: [42]stylesheet/lzl-nc (all)
+   Link: [43]stylesheet/lzl-nc (all)
+   Link: [44]stylesheet/lzl-nc (all)
+   Link: [45]stylesheet/lzl-nc (all)
+   Link: [46]stylesheet/lzl-nc (all)
+   Link: [47]stylesheet/lzl-nc (all)
+   Link: [48]stylesheet/lzl-nc (all)
+   Link: [49]stylesheet/lzl-nc (all)
+   Link: [50]stylesheet/lzl-nc (all)
+   Link: [51]stylesheet/lzl-nc (all)
+   Link: [52]stylesheet/lzl-nc (all)
+   Link: [53]stylesheet/lzl-nc (all)
+   Link: [54]stylesheet/lzl-nc (all)
+   Link: [55]stylesheet/lzl-nc (all)
+   Link: [56]stylesheet/lzl-nc (all)
+   Link: [57]stylesheet/lzl-nc (all)
+   Link: [58]stylesheet/lzl-nc (all)
+   Link: [59]stylesheet/lzl-nc (all)
+   Link: [60]stylesheet/lzl-nc (all)
+   Link: [61]stylesheet/lzl-nc (all)
+   Link: [62]stylesheet/lzl-nc (all)
+   Link: [63]stylesheet/lzl-nc (all)
+   Link: [64]stylesheet/lzl-nc (all)
+   Link: [65]stylesheet/lzl-nc (all)
+   Link: [66]stylesheet/lzl-nc (all)
+   Link: [67]stylesheet/lzl-nc (all)
+   Link: [68]stylesheet/lzl-nc (all)
+   Link: [69]stylesheet/lzl-nc (all)
+   Link: [70]stylesheet/lzl-nc (all)
+   Link: [71]stylesheet/lzl-nc (all)
+   Link: [72]stylesheet/lzl-nc (all)
+   Link: [73]stylesheet/lzl-nc (all)
+   Link: [74]stylesheet/lzl-nc (all)
+   Link: [75]stylesheet/lzl-nc (all)
+   Link: [76]stylesheet/lzl-nc (all)
+   Link: [77]stylesheet/lzl-nc (all)
+   Link: [78]stylesheet/lzl-nc (all)
+   Link: [79]stylesheet/lzl-nc (all)
+   Link: [80]stylesheet/lzl-nc (all)
+   Link: [81]stylesheet/lzl-nc (all)
+   Link: [82]stylesheet/lzl-nc (all)
+   Link: [83]stylesheet/lzl-nc
+   Link: [84]stylesheet/lzl-nc
+   Link: [85]stylesheet/lzl-nc
+   Link: [86]stylesheet/lzl-nc
+   Link: [87]stylesheet/lzl-nc
+   Link: [88]stylesheet/lzl-nc
+   Link: [89]stylesheet/lzl-nc
+   Link: [90]stylesheet/lzl-nc
+   Link: [91]stylesheet/lzl-nc
+   Link: [92]stylesheet/lzl-nc
+   Link: [93]stylesheet/lzl-nc
+   Link: [94]stylesheet/lzl-nc
+   Link: [95]stylesheet/lzl-nc
+   Link: [96]stylesheet/lzl-nc
+   Link: [97]stylesheet/lzl-nc
+   Link: [98]stylesheet/lzl-nc
+   Link: [99]stylesheet/lzl-nc
+   Link: [100]stylesheet/lzl-nc
+   Link: [101]stylesheet/lzl-nc
+   Link: [102]stylesheet/lzl-nc
+   Link: [103]stylesheet/lzl-nc
+   Link: [104]stylesheet/lzl-nc
+   Link: [105]stylesheet/lzl-nc
+   Link: [106]stylesheet/lzl-nc (all)
+   Link: [107]stylesheet/lzl-nc (all)
+   Link: [108]stylesheet/lzl-nc
+   Link: [109]stylesheet/lzl
+   Link: [110]preload
+   [111]... [112]Skip to content
+   [113]Global
+     [114]English
+     o [115]Contact Us
+   Search [116]_____________________
 
-                 Canada Working Holiday Program (RO Sponsored)
+   [117]The Tzu Chi logo represents the Chinese school in Hong Kong.[118]The
+            Tzu Chi logo represents the Chinese school in Hong Kong.
+   [119]Tzu Chi Canada
+     [120]About Us [121]Close About Us Open About Us
 
-   [48]Canada Working Holiday Program
-   [49]Toronto
-   [50]highway
-   [51]Explore Work and Travel New Zealand, work in a cafe
-   [52]maple leave
-   [53]chairlift
-   [54][IMG]
-   [55][IMG]
-   [56][IMG]
-   [57][IMG]
-   [58]Canada Working Holiday Program
-   [59]RO Sponsored Resort Program - Working holiday program , skiing and
-   snowboarding
-   [60]Canada Working Holiday Program, work in the hotel. GI International
-   provides Non-Sponsored Resort Program
+The World of Tzu Chi
 
-Canada Working Holiday Program (RO Sponsored)
+        o [122]About Tzu Chi
+        o [123]Global Site
 
-   $3,509.00
+Tzu Chi Canada
 
-   Reverse link: [61]unknown
+        o [124]About Tzu Chi Canada
+        o [125]Tzu Chi in the Press
+        o [126]Press Releases
+        o [127]Annual Reports
 
-   IEC 2026: Please use the contact form on our website to sign up for our
-   mailing list for information about IEC 2026.
+Canada Regions
 
-   As a Recognized Organization with International Experience Canada, GO
-   International is able to nominate nationals from the YMA countries for a
-   Working Holiday visa. This allows participants to work and travel in
-   Canada for up 6, 12 or 24 months and explore its stunning landscapes and
-   interesting culture.
+        o [128]Western
+        o [129]Eastern
+        o [130]Office Locator
+      [131]An asian style house with a bell on the front porch, featuring a
+       mega item.[132]An asian style house with a bell on the front porch,
+                              featuring a mega item.
+        o [133]About Tzu Chi
+     [134]What We Do [135]Close What We Do Open What We Do
 
-   Out of stock
+Where We Focus
 
-   Categories: [62]Canada, [63]Most Popular, [64]Work & Travel
+        o [136]Charity
+        o [137]Blue Sky Project
+        o [138]Humanitarian Care For Refugees
+        o [139]Medicine
+        o [140]Tzu Chi Clinic \\015of Traditional Chinese Medicine
+        o [141]Tzu Chi Wellness Group
+        o [142]Traditional Chinese Medicine Free Clinic
+        o [143]Tzu Chi International Medical Association (TIMA)
+        o [144]Education
+        o [145]Tzu Chi Academy
+        o [146]Taiwan Center for Mandarin Learning - Tzu Chi Academy,
+          Vancouver
+        o [147]Tzu Chi Great Love Daycare Centre
+        o [148]Tzu Chi International College of Traditional Chinese Medicine
+        o [149]Collegiate Youth Association
+        o [150]Teachers' Association
+        o [151]Humanistic Culture
+        o [152]Environmental Protection
+        o [153]Community Cleanups
+        o [154]Vegetarianism
+                               [155][IMG][156][IMG]
+        o [157]Tzu Chi Academy
+                             [158]daycare[159]daycare
+        o [160]Tzu Chi Great Love Daycare Centre
+     [161]Master Cheng Yen [162]Close Master Cheng Yen Open Master Cheng Yen
 
-     o [65]Description
-     o [66]Additional information
+Our Founder
 
-                                    IEC 2026
+        o [163]About Master Cheng Yen
+        o [164]History - Retracing the Journey of Great Love
+        o [165]Master's Teachings (Videos)
+        o [166]Master's Teachings (In Writing)
+        o [167]Jing Si Aphorisms
 
-   Please use the contact form on our website to sign up for our mailing list
-                        for information about IEC 2026.
+Core Principles
 
-  Dive into Adventure!
+        o [168]Philosophy
+        o [169]Principles of Jing Si Dharma Lineage & Tzu Chi School of
+          Buddhism
+           [170]A woman with a shaved head sitting at a table using an
+      Elementor.[171]A woman with a shaved head sitting at a table using an
+                                    Elementor.
+        o [172]About Master Cheng Yen
+     [173]Events
+     [174]Blog
+       [175]Multimedia Centre [176]Close Multimedia Centre Open Multimedia
+     Centre
 
-  Work and Travel in Canada
+Tzu Chi Canada
 
-   The Canadian Working Holiday Program, also known as "CWHP", is a program
-   designed for applicants who want to come to Canada to work and travel.
-   This program meets the demands of Canadian employers, while enabling
-   international young people to earn some income to support their holiday in
-   Canada. GO International provides valuable assistance to participants with
-   settling in, finding a job and accommodation and getting to know Canada.
+        o [177]Videos
+        o [178]Gallery
+        o [179]Features
+        o [180]Tzu Chi Great Love Garden
+        o [181]Great Love Vegetarian 55 Recipes
 
-  This program is designed for IEC participants, who have to be nominated by a
-  Recognized Organization.
+Global Tzu Chi
 
-   Please read our [67]FAQ section for answers to the most common questions.
+        o [182]Tzu Chi's Global Media
+       [183]A collage of pictures of people posing in front of a building,
+      created using the Elementor plugin and featuring Mega item 804.[184]A
+       collage of pictures of people posing in front of a building, created
+             using the Elementor plugin and featuring Mega item 804.
+        o [185]Gallery
+                                                               [186]VOLUNTEER
+                                                                  [187]DONATE
+   Share:
 
-   While we would like to be able to meet everyone's request for
-   participation in the program, please understand that we are limited in the
-   spots we can offer to both first time and second time applicants, and we
-   will not be able to accommodate all applications.
+                    [188]Taiwan Center for Mandarin Learning
 
-  The Highlights
+                          Tzu Chi Academy*, Vancouver
 
-   Spend an absolutely amazing vacation working in Canada and truly
-   "experience" the people, the unique natural beauty and the adrenaline rush
-   that you can only get from this country. Participants in the Working
-   Holiday program meet locals, gain international work experience, earn
-   money to travel and make the most of their working holiday in Canada with
-   us.
+[189]***************************
+***************************
 
-   Whether you are planning to be a ski bum, a city slicker, or an outdoor
-   traveler... let us help you get a running start to your new adventure.
+     o [190]REGISTER
+       ******
+     o [191]CALENDAR & DOCUMENTS
+       ************************
+     o [192]ABOUT US
+       ************
+     o [193]GALLERY
+       ************
+     o [194]CLASS LOCATIONS
+       ************
+     o [195]CONTACT US
+       ************
 
-   Have a look below for information about our RO Sponsored Package:
+ANNOUNCEMENT***********
 
-   [68]RO Sponsored Launch Pad
+   ****  Now Enrolling: Adult Beginner Classes (2026 Term 1)
+   Classes begin late January. Register now!
 
-   You will be provided with personal assistance for the whole duration of
-   your program. Think of having a tour guide/program adviser at your
-   disposal! ("When do I need to file my taxes? Where is the best place to
-   eat sushi? How do I buy a car here?");
+   ****  **************2026 ************************
+   1 ****************************************
 
-   You will receive emergency support (so you parents won't have to lie awake
-   at night worrying about you);
+                               [196]REGISTER NOW
+   ************
 
-   You will be able to access to job searching apps like Kibby and receive
-   personal job assistance, ensuring you get a JOB FAST.
+CALENDAR & DOCUMENTS
+************************
 
-   Connect with people - you will meet like-minded travelers in your
-   orientation group and you may end up meeting your future roommate/or new
-   best friend!
+     o  [197]Adult Beginner - Term 1 Schedule (Vancouver)**2026
+       **********************************************
+     o  [198]Adult Beginner - Term 1 Schedule (Burnaby)**2026
+       **********************************************
+     o  [199]Adult Beginner - Term 1 Schedule (Coquitlam)**2026
+       **********************************************
+     o  [200]Adult Beginner - Term 1 Schedule (Surrey)**2026
+       *******************************************
 
-   [69]bantersnaps
+ABOUT US**************
 
-  Did you know?
+   Welcome to Taiwan Center for Mandarin Learning!
 
-   As part of Immigration, Refugees and Citizenship Canada (IRCC),
-   the International Experience Canada (IEC) program facilitates travel and
-   work opportunities for Canadian and foreign national youth. The program
-   provides the opportunity to gain life-changing personal and professional
-   experience by travelling and working in Canada or abroad. The mandate of
-   IEC is to enhance key bilateral relationships between Canada and other
-   countries and territories and emphasize the importance of improved
-   participation reciprocity. IEC supports Canada's economic and cultural
-   interests by administering bilateral, reciprocal agreements and
-   arrangements with 35 countries and territories (also known as youth
-   mobility arrangements, or YMAs). Agreements and arrangements are generally
-   open to Canadian and foreign youth aged 18 to 35.
+   For years, Tzu Chi Academy has been deeply rooted in the Greater Vancouver
+   community, promoting not only language education but also humanistic
+   values and community service. In 2026, we are thrilled to expand our
+   educational mission by establishing the "Taiwan Center for Mandarin
+   Learning (TCML)" specifically designed for adult learners, in proud
+   collaboration with Taiwan's Overseas Community Affairs Council (OCAC).
 
-   Have a look [70]here for more information about International Experience
-   Canada.
+   At Tzu Chi, language learning is more than just memorizing vocabulary; it
+   is a warm and engaging cultural exchange. We provide a professional,
+   inclusive, and joyful environment where adults from all backgrounds can
+   learn Mandarin while immersing themselves in the rich tapestry of
+   Taiwanese culture--including its history, arts, and everyday life.
 
-  Second Timers
+   Supported by the OCAC's global initiative, our tailored curriculum is
+   designed to meet your unique needs, whether you are learning for career
+   advancement, daily communication, or a passion for cultural exploration.
+   We hope our center serves as a profound cultural bridge between Taiwan and
+   Greater Vancouver, inviting more friends to discover the beauty of Taiwan,
+   make meaningful connections, and love Mandarin! *******
 
-   In past seasons, we were able to offer a small amount of spots to "Second
-   Timers" (applicants, who have already participated in the IEC Program and
-   are looking for a repeat IEC participation since they have exhausted their
-   other options of staying in Canada). These spots are very limited and
-   depend on our overall allocation each season.
+   *****************************************
 
-   As a second timer, you are usually not looking for the same services as
-   someone who is coming to Canada for the first time and who might not have
-   lived abroad before.
+   **************************************************************************<'*********************************>'*****************************************************._2026**********************************************************OCAC*************************************************<'*****************************TCML**>'***********************************************._
 
-   Please note that we are not able to sell "visa only" packages, however
-   there are great advantages of booking the Canadian Working Holiday Program
-   with GO International if you are a second timer:
+   ****************************************************************************************._******************,_****************************************************************************************************************,_******,_***************************._
 
-   If you meet all the requirements and we offer you a spot in the program,
-   we will nominate you for an invitation to apply for the IEC Program.
+   ***********************************************************************************************************----***************************,_*****************************************************._************************************<'***************************>'******************************************************************************************************************************,_**************[201]****[202]****[203]***[204]***
 
-   Support and assistance from GO International staff throughout the entire
-   duration of your program (e.g. 24/7 emergency number, e-mail and phone
-   support and in-person assistance in GO International offices in Vancouver
-   and Toronto).
+   Experience Our Engaging Classes
 
-   We will update you on immigration, entry and activation regulations.
+   *********************************
 
-   If you lose your job, you can use our resources (e.g. Kibbi) to find
-   another employment opportunity.
+   Find the Perfect Class for Your Schedule
 
-   We can connect you to professional immigration consultants or legal
-   advisors, if needed.
+   ******************************************
 
-   We offer you discounted rates for our Language, Career and Pathway
-   programs through our parent company [71]Tamwood International College.
+   We offer 4 convenient locations across Greater Vancouver for our adult
+   learners. Choose the campus and schedule that works best for you!
 
-   You will receive information on how to extend your Social Insurance Number
-   and file your tax return.
+   *********<'********************************************************>'***************************
+   4
+   *********************************************************************************************************
 
-   In our newsletters, we will provide you with tips specific to temporary
-   residents, who have lived in Canada for more than one year (such as
-   immigration updates, current job postings, etc.).
+   Vancouver (*********) -- Evening Classes (*********)
 
-  Option To Add English / Career Training Programs
+   [205]****[206]****  Location / ******** [207]8850 Osler Street, Vancouver
 
-   Participants in the [72]Working Holiday Program have the option to add an
-   English course, IELTS preparation course, and/or a [73]career training
-   diploma program in International Business, Entrepreneurship, Digital
-   Marketing or Hospitality and Tourism to their work program.
+   [208]****[209]****  Schedule / ******** Tuesdays & Thursdays
+   (*********,_***) | [210]**[211]** 7:00 PM - 8:30 PM
 
-   We suggest these optional study programs as a way to enhance your
-   education, improve your employment prospects and provide you with
-   additional skills and credentials that enhance your eligibility for
-   Canadian immigration.
+   [212]****[213]****  Start Date / *********** Thursday, February 5, 2026
+   (2026 *** 2 *** 5 ************)
 
-   Please contact GO International or your booking agent for a full list of
-   optional study programs available through GO International's sister
-   college and language school and for a price quote for these optional
-   services.
+   Burnaby (*********) -- Afternoon Classes (*********)
 
-   [74]Let's Get Working!
+   [214]****[215]****  Location / ******** [216]6255 Nelson Avenue, Burnaby
 
-Additional information
+   [217]****[218]****  Schedule / ******** Saturdays (*********) |
+   [219]**[220]** 2:00 PM - 5:00 PM
 
-   Location Canada
-   Duration 12-24 months
-     Age    18-35
-    Dates   Year-round
-     Visa   IEC Working Holiday Visa
+   [221]****[222]****  Start Date / *********** Saturday, February 7, 2026
+   (2026 *** 2 *** 7 ************)
 
-Related Products
+   Coquitlam (*********) -- Morning Classes (*********)
+
+   [223]****[224]****  Location / ******** [225]1250 Pinetree Way, Coquitlam
+
+   [226]****[227]****  Schedule / ******** Saturdays (*********) |
+   [228]**[229]** 9:30 AM - 12:30 PM
+
+   [230]****[231]****  Start Date / *********** Saturday, January 24, 2026
+   (2026 *** 1 *** 24 ************)
+
+   Surrey (******) -- Morning Classes (*********)
+
+   [232]****[233]****  Location / ******** [234]15945 96 Ave, Surrey
+
+   [235]****[236]****  Schedule / ******** Saturdays (*********) |
+   [237]**[238]** 9:30 AM - 12:30 PM
+
+   [239]****[240]****  Start Date / *********** Saturday, January 24, 2026
+   (2026 *** 1 *** 24 ************)
+
+   Ready to start your Mandarin journey?
+
+   ***********************************************
+
+                               [241]REGISTER NOW
+   ******************
+
+CONTACT US**************
+
+  Have questions? We are here to help!
+
+  **********************************************
+
+   Not sure which location fits you best? Have questions about the curriculum
+   or registration process?
+   We'd love to hear from you! Send us an email, and our friendly team will
+   get back to you as soon as possible.
+
+   *************************************************************************************
+   *******************************************************************************************************._
+
+   *** Email / **************
+     o [242]education@tzuchi.ca
+
+Stay in touch!
+
+   Get the latest stories and updates sent to your inbox.
+   First Name [243]__
+   Last Name [244]__
+   Email [245]__
+   [246]Submit
+
+  About Us
+
+     o [247]Dharma Master Cheng Yen
+     o [248]About Tzu Chi
+     o [249]Tzu Chi Canada
+     o [250]Press Releases
+     o [251]Annual Reports
+
+  What We Do
+
+     o [252]Charity
+     o [253]Medicine
+     o [254]Education
+     o [255]Humanistic Culture
+     o [256]Environmental Protection
+
+  Connect With Us
+
+     o [257]Tzu Chi Academy
+     o [258]Tzu Chi Clinic of Traditional Chinese Medicine
+     o [259]Tzu Chi International College of Traditional Chinese Medicine
+     o [260]Tzu Chi's Global Media
+     o [261]Contact Us
+     o [262]Volunteer with Tzu Chi Canada
+     o [263]Donate Online
+
+   With Loving-Kindness, Compassion, Joy and Selfless Giving, Tzu Chi Reaches
+   out to the Suffering and Serves those in need
+
+   [264]Learn more
+
+Follow Us
+
+   Facebook-f  Linkedin-in   Instagram
+
+  Western Region
+
+   [265]Facebook-f  [266]X-twitter  [267]Instagram
+
+  Eastern Region
+
+   [268]Facebook-f  [269]X-twitter  [270]Instagram
+     o [271]FAQ
+     o [272]Privacy Policy
+     o [273]General Disclaimer
+     o [274]Complaint Policy and Procedures
+     o (c) 2026 Buddhist Compassion Relief Tzu Chi Foundation of Canada. All
+       Rights Reserved.
+     o Charitable Registration Number: 137023685 RR0001
+   Filters
+   Regions/ Offices
+   Regions/ Offices
+   [275][ ]
+   Western Region
+   [276][ ]
+   Vancouver
+   [277][ ]
+   Richmond
+   [278][ ]
+   Surrey
+   [279][ ]
+   Burnaby
+   [280][ ]
+   Coquitlam
+   [281][ ]
+   Calgary
+   [282][ ]
+   Edmonton
+   [283][ ]
+   Winnipeg
+   [284][ ]
+   Eastern Region
+   [285][ ]
+   Toronto
+   [286][ ]
+   West Toronto
+   [287][ ]
+   North Toronto
+   [288][ ]
+   Ottawa
+   [289][ ]
+   Montreal
+   [290]Clear all
+
+References
+
+   Visible links
+   1. https://gmpg.org/xfn/11
+   2. https://tzuchi.ca/tcml-vancouver/
+   3. https://www.googletagmanager.com/
+   4. https://tzuchi.ca/feed/
+   5. https://tzuchi.ca/comments/feed/
+   6. https://tzuchi.ca/events-archive/?ical=1
+   7. https://tzuchi.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftzuchi.ca%2Ftcml-vancouver%2F
+   8. https://tzuchi.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftzuchi.ca%2Ftcml-vancouver%2F&format=xml
+   9. https://tzuchi.ca/wp-json/
+  10. https://tzuchi.ca/wp-json/wp/v2/pages/41582
+  11. https://tzuchi.ca/xmlrpc.php?rsd
+  12. https://tzuchi.ca/?p=41582
+  13. https://tzuchi.ca/wp-json/tribe/events/v1/
+  14. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/5ccef0794df98fd1b9b12f590d38c832.cb2.css
+  15. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/5c9a2f777020ff5df165446095a3d83c.d2ca.css
+  16. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2cf8a4353257011cf65aaeab7c509ca8.1de.css
+  17. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2dc413239a1a429253a433bfa72a266e.71e1.css
+  18. data:text/css,
+  19. data:text/css,
+  20. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/355c08cae927848de13ba0f9d672231a.130b.css
+  21. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/8e4207ded421c8e50ee37ee8677868ed.1c0a0.css
+  22. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/a37f75370337d836c6c80c93471a7357.c237.css
+  23. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/fa75f14181708d6110eded374eed2a57.eeaa.css
+  24. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/a55747b769ecc9cc06dd0e3425d5069f.11c1.css
+  25. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/765735e58d301ed3497a23ce5c860297.37ac.css
+  26. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/8dd5fdb2b88a32ad5abb735af522c018.3866.css
+  27. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/93d92d9209b51406a39ea366cd2d4981.fd.css
+  28. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/49059576ee5eebc96a02e42949c8eeda.1d1.css
+  29. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/c7d2322e8c011db399aa0f12142828c8.9c9d.css
+  30. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/4f4c24ef50e8f1744974d246b2dbcff4.bb5.css
+  31. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/0fc4fff6a170be9fd207a754d75d2fda.e43.css
+  32. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/6c1e6958ea5db384be19c1ad878eafac.b30.css
+  33. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/d47447b95be44037f73b71df0a48a22e.1049.css
+  34. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/291c4c53ca6b83f31ab90ca8922e1070.1984.css
+  35. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/d092ed11bd57d851517f0b6e58b4f05c.c7a.css
+  36. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/d4caca13e7c08fd01a57a78d72565bce.1e46.css
+  37. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/e08ebecc94cde77004a257555bfaf760.6a6.css
+  38. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2b1c256cf1e08746b6fd6d37899747fd.1c13.css
+  39. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/6889ce4cc6aee1e46d0d1c89e6f2ab8b.ca94.css
+  40. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/fb2b3abf0b2df0f862e05a4e370c3d84.658a.css
+  41. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/399ee78520e1897c4430c6d2b8f65d14.12b1a.css
+  42. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/a49417e4f19921a57d273d44a80677bb.4116.css
+  43. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/c7d2322e8c011db399aa0f12142828c8.9c9d.css
+  44. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/4ada5e3c12f08a3590b187dd9ded88c0.1af.css
+  45. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/6e0e86378656d59aeb2f4061d413cd1c.15b1.css
+  46. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/4fda893f3a3ac794fc83afeae4490cd7.66f.css
+  47. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/8ea470f154e789342902e95f290e6c80.d2f1.css
+  48. data:text/css,
+  49. data:text/css,
+  50. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/b3bd8e89ef04b52ab3b0d57a15036500.30a.css
+  51. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/1eaa0af975c37896ca913d71ed7827f5.1d0d.css
+  52. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/7305ed8a30b2e9610fea4e383b7d1756.a2.css
+  53. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/b143771f12c19b36ceeadddfabf5ac56.188b.css
+  54. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/0117118d32d4b04c546dfe6b0962b548.3c7.css
+  55. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/9fdba8bc8936120d0002229d16cfd949.c92.css
+  56. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/f94a49c4961bc08d71abedf98d482d79.1a39.css
+  57. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/21edab937a185f60ff483fb4d41fedad.d5f.css
+  58. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/b84feb3514e23f6c39ef58523e2503d0.1e.css
+  59. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/16e53519e0f2259f4647bc5d9bd1de3b.345.css
+  60. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/53b3238371c75d7c46f25802c8200a7e.4e68.css
+  61. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/f06d2de984fd5badd4cf97756d983feb.7b0.css
+  62. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/dee1b6726a7201261f93a7bb2f89bbc7.1f306.css
+  63. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/87d046bc8a5525ea2203533ada3d4338.76ee.css
+  64. data:text/css,
+  65. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/55b60a3389f19c34d57922ff9d90cb81.3395.css
+  66. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/8c65f5c3120bcbd28e6c096a988bd91b.8be.css
+  67. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/ae7ff07fb93cf2197c023dbd5107c8df.43e.css
+  68. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/fd99bce46740c2e280c50fddfcbc7690.c53.css
+  69. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2317428daeeca1f05698cf4685cd22cd.4a6.css
+  70. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/45aba0a31c93efbf8cb30fb4efbf8742.1328.css
+  71. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/85ed12f89bade693d79096b935dca129.1be7.css
+  72. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/28a3ed83ed8383388ffbf51595344426.1f3e.css
+  73. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2d178c033a88e5106ffa30dfe5128794.150d.css
+  74. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/719be05515fa3d5b5e6d984bf1dd7776.52e.css
+  75. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/556fd3ee6b6c0cb95c0728016e2f2be2.830.css
+  76. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/0676d586f14322a1d86b343033b18bf0.4c0.css
+  77. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/8a6c4662172184f6e6931ef8b0e6c0dd.52e.css
+  78. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/4b88c11692ef093714bd044e86518d5d.dbd8.css
+  79. data:text/css,
+  80. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/60cca7cf0f15f0d11980c74188c83178.24.css
+  81. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/c335ec13a9be5739fe1699c2adb3ae97.80.css
+  82. data:text/css,
+  83. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/1aed6e10b4078d18b3fbdd428dff7575.cd.css
+  84. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/087a97f2583855f8909d61f63886a761.32.css
+  85. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/7e7e04721ae045445818287bcc04dd40.7c.css
+  86. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/249a3cbe38edb0f12a510e99120b943e.ed.css
+  87. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/d97037189ec1434a885009a6788da172.a9.css
+  88. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/5b247d952c41ec7ca3ed7ae69a501815.ce.css
+  89. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/c5c808d9ecbcb711075fd0b1d99c6c42.47c.css
+  90. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/6d6a6ec6b26fc16febae6c942bef4a1d.95.css
+  91. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/79253296fc4df014c530aa64c18affe5.239.css
+  92. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/23c12632bc61fa6887090ac423f2498e.4b9.css
+  93. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/055e647f9fb83c24aeccf41fa6f322fb.21c.css
+  94. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/66ff047f4dd1ec68a31636c1419295c6.13a.css
+  95. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/61555f1502b8c210841a8269c43041bf.98.css
+  96. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/ecb583d0aabb9b3dea7ca3ce8b1fd93f.80.css
+  97. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/944cc1105f417a9dabfddc0c57079b7a.208.css
+  98. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/b8f0a25484c53178d2d866dd99fe9ac4.ff.css
+  99. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/5a96ca46a4613789749e08682f20efb6.3a.css
+ 100. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/9b205ca30234263fa79aed221f66c4da.179.css
+ 101. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/1a219adfd099b6da33ceafc5e46a31ca.340.css
+ 102. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/a09cd868f4ff31f483d91b5de9b379da.4a.css
+ 103. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/847c4cffc3a05285ef5cb633eb609e0b.44.css
+ 104. data:text/css,
+ 105. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2fc4b27124f17c21fd4e6963cf734b58.1cf6.css
+ 106. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/2ae1f85d6023b5be8bd8af8f99ca2aa6.17d.css
+ 107. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/f5e05a5670b22c5b86e767d7dc9d146d.1a2f.css
+ 108. https://tzuchi.ca/wp-content/cache/seraphinite-accelerator/s/m/d/css/856654018bee6cdf450669464f22918e.3a10.css
+ 109. https://tzuchi.ca/tcml-vancouver/?seraph_accel_gp=1784175636_0_css
+ 110. https://tzuchi.ca/tcml-vancouver/?seraph_accel_gp=1784175636_0_css
+ 111. data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAPoCAYAAABNo9TkAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAPPElEQVR42u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIB3AxB7AAFVmiFdAAAAAElFTkSuQmCC
+ 112. https://tzuchi.ca/tcml-vancouver/#content
+ 113. https://global.tzuchi.org/
+ 114. Switch to English
+	https://tzuchi.ca/tcml-vancouver/
+ 115. https://tzuchi.ca/contact-us/
+ 117. https://tzuchi.ca/
+ 118. https://tzuchi.ca/
+ 119. https://tzuchi.ca/
+ 120. https://tzuchi.ca/about-us/
+ 122. https://tzuchi.ca/about-us/about-tzu-chi/
+ 123. https://www.tzuchi.org/
+ 124. https://tzuchi.ca/about-us/about-tzu-chi/about-tzu-chi-canada/
+ 125. https://tzuchi.ca/about-us/tzu-chi-in-the-press/
+ 126. https://tzuchi.ca/about-us/press-releases/
+ 127. https://tzuchi.ca/about-us/tzu-chi-annual-reports/
+ 128. https://tzuchi.ca/offices/western-region/
+ 129. https://tzuchi.ca/offices/eastern-region/
+ 130. https://tzuchi.ca/offices/
+ 131. https://tzuchi.ca/about-us/about-tzu-chi/
+ 132. https://tzuchi.ca/about-us/about-tzu-chi/
+ 133. https://tzuchi.ca/about-us/about-tzu-chi/
+ 134. https://tzuchi.ca/what-we-do/
+ 136. https://tzuchi.ca/what-we-do/charity/
+ 137. https://tzuchi.ca/what-we-do/charity/blue-sky-project/
+ 138. https://tzuchi.ca/what-we-do/charity/humanitarian-care-for-refugees/
+ 139. https://tzuchi.ca/what-we-do/medicine/
+ 140. https://www.tzuchiclinic.ca/
+ 141. https://www.tzuchiwellnessgroup.ca/en
+ 142. https://tzuchi.ca/what-we-do/medicine/traditional-chinese-medicine-free-clinic/
+ 143. https://tzuchi.ca/what-we-do/medicine/tima/
+ 144. https://tzuchi.ca/what-we-do/education/
+ 145. https://tzuchi.ca/academy/
+ 146. https://tzuchi.ca/tcml-vancouver/
+ 147. https://tzuchi.ca/daycare-richmond/
+ 148. https://tcmcollege.com/
+ 149. https://tzuchi.ca/what-we-do/education/collegiate-youth-association/
+ 150. https://tzuchi.ca/what-we-do/education/teachers-association/
+ 151. https://tzuchi.ca/what-we-do/humanistic-culture/
+ 152. https://tzuchi.ca/what-we-do/environmental-protection/
+ 153. https://tzuchi.ca/what-we-do/environmental-protection/community-cleanups/
+ 154. https://tzuchi.ca/what-we-do/environmental-protection/vegetarianism/
+ 155. https://tzuchi.ca/academy/
+ 156. https://tzuchi.ca/academy/
+ 157. https://tzuchi.ca/academy/
+ 158. https://tzuchi.ca/daycare-richmond/
+ 159. https://tzuchi.ca/daycare-richmond/
+ 160. https://tzuchi.ca/daycare-richmond/
+ 161. https://tzuchi.ca/master-cheng-yen/
+ 163. https://tzuchi.ca/master-cheng-yen/about-master-cheng-yen/
+ 164. https://tw.tzuchi.org//#jux-title
+ 165. https://tzuchi.ca/master-cheng-yen/masters-teachings-videos/
+ 166. https://tzuchi.ca/master-cheng-yen/masters-teachings-in-writing/
+ 167. https://tzuchi.ca/master-cheng-yen/jing-si-aphorisms/
+ 168. https://tzuchi.ca/master-cheng-yen/philosophy/
+ 169. https://tzuchidharma.org/
+ 170. https://tzuchi.ca/master-cheng-yen/about-master-cheng-yen/
+ 171. https://tzuchi.ca/master-cheng-yen/about-master-cheng-yen/
+ 172. https://tzuchi.ca/master-cheng-yen/about-master-cheng-yen/
+ 173. https://tzuchi.ca/events/
+ 174. https://tzuchi.ca/blog/
+ 175. https://tzuchi.ca/tcml-vancouver/#
+ 177. https://tzuchi.ca/multimedia-center/videos/
+ 178. https://tzuchi.ca/multimedia-center/gallery/
+ 179. https://tzuchi.ca/multimedia-center/features/
+ 180. https://tzuchi.ca/tzu-chi-great-love-garden/
+ 181. https://tzuchi.ca/great-love-55-vegetarian-recipes/
+ 182. https://tzuchi.ca/multimedia-center/tzu-chis-global-media/
+ 183. https://tzuchi.ca/multimedia-center/gallery/
+ 184. https://tzuchi.ca/multimedia-center/gallery/
+ 185. https://tzuchi.ca/multimedia-center/gallery/
+ 186. https://tzuchi.ca/volunteer/
+ 187. https://donate.tzuchi.ca/
+ 188. https://tzuchi.ca/tcml-vancouver
+ 189. https://tzuchi.ca/tcml-vancouver
+ 190. https://tzuchi.ca/tcml-vancouver/#reg
+ 191. https://tzuchi.ca/tcml-vancouver/#cale
+ 192. https://tzuchi.ca/tcml-vancouver/#abo
+ 193. https://tzuchi.ca/tcml-vancouver/#gallery
+ 194. https://tzuchi.ca/tcml-vancouver/#locations
+ 195. https://tzuchi.ca/tcml-vancouver/#cont
+ 196. https://forms.office.com/pages/responsepage.aspx?id=iIG6dYTZEkGVZZuF9eav6OCQr4v2T6dInnZYqZLNxFZURDM4U1VMQzZUUzQ2UUM2VDMwVjY2UDhJUi4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl
+ 197. https://tzuchicanada.sharepoint.com/:b:/s/TzuChiCanada-WebsiteContent/IQA1lWb9CotGRbl2Bb1MDWVNAb4fNym8ua1dNL-Du3SVDuY?e=eEZJEV
+ 198. https://tzuchicanada.sharepoint.com/:b:/s/TzuChiCanada-WebsiteContent/IQCQElxoxfRwSoNjoN4RlS3sAd8PiZxljgwr7byhH8BUsAU?e=xY1HBy
+ 199. https://tzuchicanada.sharepoint.com/:b:/s/TzuChiCanada-WebsiteContent/IQDnAWt_xQiOR74We95uidw3AY-O1h9Nqsn6NWM9rTeBAWo?e=LYvO6h
+ 200. https://tzuchicanada.sharepoint.com/:b:/s/TzuChiCanada-WebsiteContent/IQC83gKhOX7yTpP4AyfR_6AjAZUP3XIZv8iUeeJkJDR_9Ms?e=FIwN5G
+ 201. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 202. https://s.w.org/images/core/emoji/17.0.2/svg/1f60a.svg
+ 203. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 204. https://s.w.org/images/core/emoji/17.0.2/svg/270c.svg
+ 205. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 206. https://s.w.org/images/core/emoji/17.0.2/svg/1f4cd.svg
+ 207. https://maps.app.goo.gl/D6KYKhgXpdrEAmQv7
+ 208. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 209. https://s.w.org/images/core/emoji/17.0.2/svg/1f4c5.svg
+ 210. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 211. https://s.w.org/images/core/emoji/17.0.2/svg/23f0.svg
+ 212. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 213. https://s.w.org/images/core/emoji/17.0.2/svg/1f680.svg
+ 214. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 215. https://s.w.org/images/core/emoji/17.0.2/svg/1f4cd.svg
+ 216. https://maps.app.goo.gl/Dnxo7Nh4j8Gdvma99
+ 217. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 218. https://s.w.org/images/core/emoji/17.0.2/svg/1f4c5.svg
+ 219. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 220. https://s.w.org/images/core/emoji/17.0.2/svg/23f0.svg
+ 221. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 222. https://s.w.org/images/core/emoji/17.0.2/svg/1f680.svg
+ 223. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 224. https://s.w.org/images/core/emoji/17.0.2/svg/1f4cd.svg
+ 225. https://maps.app.goo.gl/89wryn1sjo2eCp9f9
+ 226. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 227. https://s.w.org/images/core/emoji/17.0.2/svg/1f4c5.svg
+ 228. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 229. https://s.w.org/images/core/emoji/17.0.2/svg/23f0.svg
+ 230. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 231. https://s.w.org/images/core/emoji/17.0.2/svg/1f680.svg
+ 232. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 233. https://s.w.org/images/core/emoji/17.0.2/svg/1f4cd.svg
+ 234. https://maps.app.goo.gl/NsAGY8jkaPphoC5Y6
+ 235. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 236. https://s.w.org/images/core/emoji/17.0.2/svg/1f4c5.svg
+ 237. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 238. https://s.w.org/images/core/emoji/17.0.2/svg/23f0.svg
+ 239. data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%20width%3D%2236%22%20height%3D%2236%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%2300000000%22%20%2F%3E%3C%2Fsvg%3E
+ 240. https://s.w.org/images/core/emoji/17.0.2/svg/1f680.svg
+ 241. https://forms.office.com/pages/responsepage.aspx?id=iIG6dYTZEkGVZZuF9eav6OCQr4v2T6dInnZYqZLNxFZURDM4U1VMQzZUUzQ2UUM2VDMwVjY2UDhJUi4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl
+ 242. mailto:education@tzuchi.ca
+ 247. https://tzuchi.ca/master-cheng-yen/about-master-cheng-yen/
+ 248. https://tzuchi.ca/about-us/about-tzu-chi/
+ 249. https://tzuchi.ca/about-us/about-tzu-chi/about-tzu-chi-canada/
+ 250. https://tzuchi.ca/about-us/press-releases/
+ 251. https://tzuchi.ca/about-us/tzu-chi-annual-reports/
+ 252. https://tzuchi.ca/what-we-do/charity/
+ 253. https://tzuchi.ca/what-we-do/medicine/
+ 254. https://tzuchi.ca/what-we-do/education/
+ 255. https://tzuchi.ca/what-we-do/humanistic-culture/
+ 256. https://tzuchi.ca/what-we-do/environmental-protection/
+ 257. https://tzuchi.ca/academy/
+ 258. https://www.tzuchiclinic.ca/
+ 259. https://tcmcollege.com/
+ 260. https://tzuchi.ca/multimedia-center/tzu-chis-global-media/
+ 261. https://tzuchi.ca/contact-us/
+ 262. https://tzuchi.ca/volunteer/
+ 263. https://donate.tzuchi.ca/
+ 264. https://tzuchi.ca/what-we-do/charity/
+ 265. https://www.facebook.com/CanadaTCF
+ 266. https://x.com/tzuchicanada
+ 267. https://www.instagram.com/tzuchicanada
+ 268. https://www.facebook.com/tzuchi.easterncanada
+ 269. https://x.com/TzuChiEasternCA
+ 270. https://www.instagram.com/tzuchieasterncanada
+ 271. https://tzuchi.ca/faq/
+ 272. https://tzuchi.ca/privacy-policy/
+ 273. https://tzuchi.ca/general-disclaimer/
+ 274. https://tzuchi.ca/complaint-policy/
